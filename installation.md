@@ -9,7 +9,7 @@ permalink: /installation/
 - [Directory Structure & File Name Format](https://github.com/WiFiTrace/WiFiTrace.github.io/blob/master/installation.md#directory-structure-and-file-name-format)
 - [Data Format](https://github.com/WiFiTrace/WiFiTrace.github.io/blob/master/installation.md#data-format)
 - [Example Usage](https://github.com/WiFiTrace/WiFiTrace.github.io/blob/master/installation.md#usage)
-- [References](https://github.com/WiFiTrace/WiFiTrace.github.io/blob/master/installation.md#references):
+- [References](https://github.com/WiFiTrace/WiFiTrace.github.io/blob/master/installation.md#references)
 
 ## Dependencies and Installation
 The code works with Python 3.7 and is also Python 2.7 compatible. You need to install Python (3.7 preferred) and the following list of packages:
