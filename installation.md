@@ -5,11 +5,11 @@ permalink: /installation/
 
 # Installation and Usage
 ## Sections
-- [Dependencies & Installation](https://github.com/umassos/disease-modeling/blob/master/README.md#dependencies-and-installation)
-- [Directory Structure & File Name Format](https://github.com/umassos/disease-modeling/blob/master/README.md#directory-structure-and-file-name-format)
-- [Data Format](https://github.com/umassos/disease-modeling/blob/master/README.md#data-format)
-- [Example Usage](https://github.com/umassos/disease-modeling/blob/master/README.md#example-usage)
-- [References](https://github.com/umassos/disease-modeling/blob/master/README.md#references):
+- [Dependencies & Installation](https://github.com/WiFiTrace/WiFiTrace.github.io/blob/master/installation.md#dependencies-and-installation)
+- [Directory Structure & File Name Format](https://github.com/WiFiTrace/WiFiTrace.github.io/blob/master/installation.md#directory-structure-and-file-name-format)
+- [Data Format](https://github.com/WiFiTrace/WiFiTrace.github.io/blob/master/installation.md#data-format)
+- [Example Usage](https://github.com/WiFiTrace/WiFiTrace.github.io/blob/master/installation.md#usage)
+- [References](https://github.com/WiFiTrace/WiFiTrace.github.io/blob/master/installation.md#references):
 
 ## Dependencies and Installation
 The code works with Python 3.7 and is also Python 2.7 compatible. You need to install Python (3.7 preferred) and the following list of packages:
@@ -88,3 +88,5 @@ main.py -y 2019 -i /data/20190111_syslog -o /session/
 will process the syslog file present at location /data/20190111_syslog and create an output file in /session/ dir with name 20190111_syslog_sessions.csv
 
 2. If Input parameter is a directory then the script processes all syslog files in the directory that haven't been processed earlier and generates the corresponding session output files.
+
+### References
