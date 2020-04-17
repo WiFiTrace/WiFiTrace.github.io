@@ -4,6 +4,12 @@ permalink: /installation/
 ---
 
 # Installation and Usage
+## Sections
+- [Dependencies & Installation](https://github.com/umassos/disease-modeling/blob/master/README.md#dependencies-and-installation)
+- [Directory Structure & File Name Format](https://github.com/umassos/disease-modeling/blob/master/README.md#directory-structure-and-file-name-format)
+- [Data Format](https://github.com/umassos/disease-modeling/blob/master/README.md#data-format)
+- [Example Usage](https://github.com/umassos/disease-modeling/blob/master/README.md#example-usage)
+- [References](https://github.com/umassos/disease-modeling/blob/master/README.md#references):
 
 ## Dependencies and Installation
 The code works with Python 3.7 and is also Python 2.7 compatible. You need to install Python (3.7 preferred) and the following list of packages:
@@ -11,7 +17,9 @@ The code works with Python 3.7 and is also Python 2.7 compatible. You need to in
   * datetime, os, ast, sys, get_opt are all part of python’s standard library. 
 
 ## Directory Structure and File Name Format
+
 ### Contact Tracing Tool:
+
 <To Be Added>
 
 ### Preprocessor : (WiFi Syslogs to Session Extraction System)
