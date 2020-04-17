@@ -20,9 +20,9 @@ The code works with Python 3.7 and is also Python 2.7 compatible. You need to in
 
 ### Contact Tracing Tool:
 
-<To Be Added>
+To Be Added
 
-### Preprocessor : WiFi Syslogs to Session Extraction System
+### Preprocessor : (WiFi Syslogs to Session Extraction System)
 
 The directory structure of Preprocessor is as follows:
 
