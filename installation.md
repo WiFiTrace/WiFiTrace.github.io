@@ -18,12 +18,12 @@ The code works with Python 3.7 and is also Python 2.7 compatible. You need to in
 
 The directory structure of Preprocessor is as follows:
 
-\Preprocessor
-    - \src
-    - \utils
+\Preprocessor  
+&nbsp;&nbsp;&nbsp;&nbsp;- \src  
+&nbsp;&nbsp;&nbsp;&nbsp;- \utils  
     
-src directory : This directory has all the python code / script files
-utils directory : This directory has additional python scripts for doing postprocessing on the output file.
+src directory : This directory has all the python code/script files  
+utils directory : This directory has additional python scripts for doing postprocessing on the output file.  
 
 ## Data Format
 
