@@ -14,8 +14,8 @@ permalink: /installation/
 ## Dependencies and Installation
 The code works with Python 3.7 and is also Python 2.7 compatible. You need to install Python (3.7 preferred) and the following list of packages:
   * [Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
-  * datetime, os, ast, sys, get_opt are all part of python’s standard library. 
-
+  * datetime, os, ast, sys, get_opt are all part of python’s standard library.
+  
 ## Directory Structure and File Name Format
 
 ### Contact Tracing Tool:
