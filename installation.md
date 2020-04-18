@@ -117,11 +117,11 @@ Field Description:
 python main.py -m <\mac id\> -s \<start date YYYYMMDD \> -e \<end date YYYYMMDD \> -w \<pathogen active window size\> -l \<minimum session length (in mins) of the infected patient\>
 
 where:  
-m - mac id of the infected patient
-s - This is the date from when you want to perform contact tracing
-e - This is the date till when you want to perform contact tracing
-w - Time in hours for which the pathogen is active, if you want to perform contact tracing to identify users who visited the location after the departure of the infected person when the pathogens spread by the infected person are still alive. Default value 0, indicating the infected person and other users should be co-located at the same place and at the same time.
-l - Minimum time in mins spend by the infected person at a location. Default value 0, indicating consider all locations visited by the infected person irrespective of the time spend at each location.
+m - mac id of the infected patient  
+s - This is the date from when you want to perform contact tracing  
+e - This is the date till when you want to perform contact tracing  
+w - Time in hours for which the pathogen is active, if you want to perform contact tracing to identify users who visited the location after the departure of the infected person when the pathogens spread by the infected person are still alive. Default value 0, indicating the infected person and other users should be co-located at the same place and at the same time.  
+l - Minimum time in mins spend by the infected person at a location. Default value 0, indicating consider all locations visited by the infected person irrespective of the time spend at each location.  
 
 Also, **change the value of parameter idir in config.text file to indicate the location of all input session files.**
 
@@ -140,10 +140,10 @@ idir=/Users/foo/
 
 python main.py -y \<YYYY\> -i \<input\> -o \<output\>
 
-where:
-i - input syslog file name or directory (if multiple files to be preprocessed)
-o - output file name or directory
-y - Year (YYYY format) of the syslog file passed in -i, default is current year
+where:  
+i - input syslog file name or directory (if multiple files to be preprocessed)  
+o - output file name or directory  
+y - Year (YYYY format) of the syslog file passed in -i, default is current year  
 
 **Note:**
 1. If Output file parameter -o option is a directory then the outfile is saved as a <input_filename>_sessions.csv
