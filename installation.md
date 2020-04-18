@@ -52,6 +52,34 @@ util directory : This directory has additional python scripts for doing postproc
 
 ## Data Format
 
+### WiFiTrace : Contact Tracing Tool
+
+**Input Data Format :** 
+
+The input to WiFiTrace is a csv file where each row of the csv file represents a device session.
+The columns in the csv file are:
+
+  MAC,Session_AP_Name,Year,Month,Date,Start_Time,End_Time,Unix_Start_Time,Unix_End_Time
+
+Field Description:
+
+    MAC: (MAC Id of the device)
+    Session_AP_Name: Access Point Name/ID where device was connected
+    Year: YYYY
+    Month: MMM (eg: Jan, Feb, Mar, etc)
+    Date: DD (01-31)
+    Start_Time : Start time of session in HH:MM (24-hr format)
+    End_Time : End time of session in HH:MM (24-hr format)
+    Unix_Start_Time : Start time of session in Unix Timestamp
+    Unix_End_Time : End time of session in Unix Timestamp
+
+**Note:**
+* The input file to WiFiTrace is the output file of Preprocessor. So, if you have HP Aruba WiFi Solution go ahead and use the preprocessor to create the session input file to WiFiTrace.
+
+**Output Data Format :**
+
+The output of WiFiTrace are Patient report and User Co-location report, explained in the [Reports section]().
+
 ### Preprocessor : WiFi Syslogs to Sessions Extraction System:
 
 **Input Data Format :**
