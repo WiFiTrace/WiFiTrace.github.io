@@ -155,4 +155,7 @@ will process the syslog file present at location /data/20190111_syslog and creat
 
 2. If Input parameter is a directory then the script processes all syslog files in the directory that haven't been processed earlier and generates the corresponding session output files.
 
+
+## Reports
+
 ### References
