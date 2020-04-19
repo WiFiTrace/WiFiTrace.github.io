@@ -7,5 +7,5 @@ baseurl: "" #"/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: amee_tweets
 github_username:  ameetrivedi
-show_downloads: "true"
+#show_downloads: "true"
 google_analytics: UA-163989632-1
