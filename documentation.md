@@ -3,13 +3,29 @@ title: "Documentation"
 permalink: /documentation/
 ---
 
-# Installation and Usage
 ## Sections
-- [Dependencies & Installation](https://github.com/WiFiTrace/WiFiTrace.github.io/blob/master/installation.md#dependencies-and-installation)
+- [WiFiTrace Pros](#WiTrace-Pros)
+- [Dependencies & Installation](./installation.md#dependencies-and-installation)
 - [Directory Structure & File Name Format](https://github.com/WiFiTrace/WiFiTrace.github.io/blob/master/installation.md#directory-structure-and-file-name-format)
 - [Data Format](https://github.com/WiFiTrace/WiFiTrace.github.io/blob/master/installation.md#data-format)
 - [Example Usage](https://github.com/WiFiTrace/WiFiTrace.github.io/blob/master/installation.md#usage)
 - [References](https://github.com/WiFiTrace/WiFiTrace.github.io/blob/master/installation.md#references)
+
+## WiTrace Pros:
+* Server Side Tool Ready to Deploy
+* No need to install any battery draining apps on user mobile phones
+* No active monitoring/recording needed
+* No need to install sensors or perform infrastructure upgrade
+* No laborious fingerprinting of existing infrastructure needed.
+
+## WiTrace Features:
+
+* Infected Person location visit report
+* Co-locators summary report (list of co-locators with duration and location of co-location)
+* Detail Co-location report of each co-locator
+* Capability to identify user visits to locations with active pathogens even after patient departure from the location
+* Configurable Patient visit duration parameter
+* Configurable pathogen activity parameter
 
 ## Dependencies and Installation
 The code works with Python 3.7 and is also Python 2.7 compatible. You need to install Python (3.7 preferred) and the following list of packages:
@@ -145,18 +161,3 @@ will process the syslog file present at location /data/20190111_syslog and creat
 
 ### References
 
-## WiTrace Pros:
-* Server Side Tool Ready to Deploy
-* No need to install any battery draining apps on user mobile phones
-* No active monitoring/recording needed
-* No need to install sensors or perform infrastructure upgrade
-* No laborious fingerprinting of existing infrastructure needed.
-
-## WiTrace Features:
-
-* Infected Person location visit report
-* Co-locators summary report (list of co-locators with duration and location of co-location)
-* Detail Co-location report of each co-locator
-* Capability to identify user visits to locations with active pathogens even after patient departure from the location
-* Configurable Patient visit duration parameter
-* Configurable pathogen activity parameter
