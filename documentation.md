@@ -4,21 +4,23 @@ permalink: /documentation/
 ---
 
 ## Sections
-- [WiFiTrace Pros](#WiTrace-Pros)
-- [Dependencies & Installation](./installation.md#dependencies-and-installation)
-- [Directory Structure & File Name Format](https://github.com/WiFiTrace/WiFiTrace.github.io/blob/master/installation.md#directory-structure-and-file-name-format)
-- [Data Format](https://github.com/WiFiTrace/WiFiTrace.github.io/blob/master/installation.md#data-format)
-- [Example Usage](https://github.com/WiFiTrace/WiFiTrace.github.io/blob/master/installation.md#usage)
-- [References](https://github.com/WiFiTrace/WiFiTrace.github.io/blob/master/installation.md#references)
+- [WiFiTrace Pros](#wiTrace-pros)
+- [WiFiTrace Features](#wiTrace-features)
+- [Dependencies & Installation](#dependencies-and-installation)
+- [Directory Structure & File Name Format](#directory-structure-and-file-name-format)
+- [Data Format](#data-format)
+- [Example Usage](#usage)
+- [Reports](#reports)
+- [References](#references)
 
-## WiTrace Pros:
+## WiTrace Pros
 * Server Side Tool Ready to Deploy
 * No need to install any battery draining apps on user mobile phones
 * No active monitoring/recording needed
 * No need to install sensors or perform infrastructure upgrade
 * No laborious fingerprinting of existing infrastructure needed.
 
-## WiTrace Features:
+## WiTrace Features
 
 * Infected Person location visit report
 * Co-locators summary report (list of co-locators with duration and location of co-location)
