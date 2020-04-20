@@ -4,8 +4,8 @@ permalink: /documentation/
 ---
 
 ## Sections
-- [WiFiTrace Pros](#wiTrace-pros)
-- [WiFiTrace Features](#wiTrace-features)
+- [WiFiTrace Pros](#wifitrace-pros)
+- [WiFiTrace Features](#wifitrace-features)
 - [Dependencies & Installation](#dependencies-and-installation)
 - [Directory Structure & File Name Format](#directory-structure-and-file-name-format)
 - [Data Format](#data-format)
@@ -13,14 +13,14 @@ permalink: /documentation/
 - [Reports](#reports)
 - [References](#references)
 
-## WiTrace Pros
+## WiFiTrace Pros
 * Server Side Tool Ready to Deploy
 * No need to install any battery draining apps on user mobile phones
 * No active monitoring/recording needed
 * No need to install sensors or perform infrastructure upgrade
 * No laborious fingerprinting of existing infrastructure needed.
 
-## WiTrace Features
+## WiFiTrace Features
 
 * Infected Person location visit report
 * Co-locators summary report (list of co-locators with duration and location of co-location)
