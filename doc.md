@@ -1,6 +1,6 @@
 ---
-title: "Installation & Usage"
-permalink: /installation/
+title: "Documentation"
+permalink: /documentation/
 ---
 
 # Installation and Usage
@@ -144,3 +144,19 @@ will process the syslog file present at location /data/20190111_syslog and creat
 ## Reports
 
 ### References
+
+## WiTrace Pros:
+* Server Side Tool Ready to Deploy
+* No need to install any battery draining apps on user mobile phones
+* No active monitoring/recording needed
+* No need to install sensors or perform infrastructure upgrade
+* No laborious fingerprinting of existing infrastructure needed.
+
+## WiTrace Features:
+
+* Infected Person location visit report
+* Co-locators summary report (list of co-locators with duration and location of co-location)
+* Detail Co-location report of each co-locator
+* Capability to identify user visits to locations with active pathogens even after patient departure from the location
+* Configurable Patient visit duration parameter
+* Configurable pathogen activity parameter
