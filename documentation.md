@@ -160,4 +160,8 @@ will process the syslog file present at location /data/20190111_syslog and creat
 ## Reports
 
 ### References
+The design of this tool leverages our research expertise in characterizing and modeling the mobility of users. A recent technical publication titled "Empirical Characterization of Mobility of Multi-Device Internet Users" describes our mobility characterization and modeling research and is available on 
+[arxiv](https://arxiv.org/abs/2003.08512) 
+
+A research publication desribing the network-centric WiFi-based contact tracing method used by WiFiTrace is a work in progress and  will be availble here soon.
 
