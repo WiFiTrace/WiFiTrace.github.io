@@ -161,7 +161,7 @@ will process the syslog file present at location /data/20190111_syslog and creat
 
 ## Reports
 
-### References
+## References
 The design of this tool leverages our research expertise in characterizing and modeling the mobility of users. A recent technical publication titled "Empirical Characterization of Mobility of Multi-Device Internet Users" describes our mobility characterization and modeling research and is available on 
 [arxiv](https://arxiv.org/abs/2003.08512) 
 
