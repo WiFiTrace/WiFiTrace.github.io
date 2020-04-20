@@ -11,5 +11,3 @@ In the [Code repo](https://github.com/umassos/WiFiTrace) we are doing a public r
 Both, WiFiTrace and Preprocessor are written in python. 
 
 #### Installation and Usage instructions can be found [here](https://wifitrace.github.io/installation/)
-#### User Guide can be found [here](https://wifitrace.github.io/user_guide/)
-#### Developer Guide can be found [here](https://wifitrace.github.io/dev_guide/)
