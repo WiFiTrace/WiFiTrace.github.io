@@ -30,4 +30,10 @@ The processor code processes raw networking monitoring logs/data to extract AP a
 The main tool then ingests this data in a standard format and  generates contact tracing reports  it based on a specified user or a device MAC address. The output report can be in human-readable text or JSON format.
 
 Additional details on tool installation, data formats, and a user guide can be found in the 
-[User Guide]()
+[User Guide](https://github.com/umassos/WiFiTrace/blob/master/USER-GUIDE.md)
+ 
+
+The design of this tool leverages our research expertise in characterizing and modeling the mobility of users. A recent technical publication titled "Empirical Characterization of Mobility of Multi-Device Internet Users" describes our mobility characterization and modeling research and is available on 
+[arxiv](https://arxiv.org/abs/2003.08512) 
+
+A research publication desribing the network-centric WiFi-based contact tracing method used by WiFiTrace is a work in progress and  will be availble here soon.
