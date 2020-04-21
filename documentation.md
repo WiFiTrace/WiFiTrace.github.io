@@ -168,10 +168,10 @@ WiFiTrace generates 2 reports:
 The format of the report can be txt or JSON based on the input parameter (-f) supplied when calling WIFITrace. If the parameter is not supplied by default the reports are saved as text file.
 
 ### Description of Reports
-**Patient Report**
+**Patient Report**  
 Patient Report describes the list of locations visited and time of visit by the patient from the start date till the end date. Each row of the report gives the date, start time of visit(24 hr clock format), end time of visit(24 hr clock format), Location details and Duration of visit(in mins).
 
-**User Report**
+**User Report**  
 The User report provides details about the users co-located with the patient between the start date and the end date.  The user report has 2 sections Summary section and Detailed report section.  
 
 The Summary section provides a count of total co-locators as well as a list of all Mac IDs along with the duration of co-location of each Mac ID with the infected person.  
